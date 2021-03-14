@@ -14,7 +14,7 @@ sass:
 plainwhite:
   name: 정효민
   tagline: Celeste Hyomin
-  date_format: "%Y, %b %-d"
+  date_format: "%Y %b %-d"
   sitemap: true # set to true to generate sitemap.xml content
   navigation:
     - title: About
@@ -31,8 +31,8 @@ plainwhite:
     - post
   # generate social links in footer
   social_links:
-    github:  hyomin632
-    linkedIn: https://github.com/hyomin632
+    github: hyomin632
+    instagram: l_v_celeste
     #rss: rss
     #email: jekyll
 
