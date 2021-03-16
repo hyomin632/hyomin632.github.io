@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 20210316 Java
-tag: Java_basic
+tag: JavaBasic
 ---
 
 실무에서 사용하는 Java는 v.8 / 가장 큰 장점은 람다식.
@@ -14,7 +14,7 @@ Java의 점유율과 C 언어의 점유율은 비슷하지만 올해는 C 언어
 
 IPTV에 내재되어 있는 소프트웨어도 Java로 프로그래밍되어 있다. -> 실생활에 주로 쓰이고 있다.
 
-안드로이드: Java + C
+안드로이드: Java + C 언어
 
 자바 프로그래밍 종류: 자바 애플리케이션, 자바 애플릿, 자바 서브릿
 
@@ -25,3 +25,12 @@ IPTV에 내재되어 있는 소프트웨어도 Java로 프로그래밍되어 있
 리눅스에서 작업해야 좋음 / 맥에 eclipse, JDK(amazon corretto v.8) 설치
 
 bin: bianry(실행 파일 있는 곳) / bin, lib 중요!
+
+JDK 환경변수 설정: PATH, JAVA_HOME
+
+java API: 작성된 코드를 미리 구현하는 
+
+자바 패키지: 자신이 만든 프로그램에 자신의 이름을 넣어 다른 프로그램들과 구분하는 역할.
+
+이클립스 기본 설정: 테마(다크 모드), 글꼴, 스펠링, workspace textincording, installed JRE's
+
