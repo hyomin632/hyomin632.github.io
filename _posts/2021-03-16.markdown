@@ -24,4 +24,4 @@ IPTV에 내재되어 있는 소프트웨어도 Java로 프로그래밍되어 있
 
 리눅스에서 작업해야 좋음 / 맥에 eclipse, JDK(amazon corretto v.8) 설치
 
-bin: bianry(실행 파일 있는 곳) / 
+bin: bianry(실행 파일 있는 곳) / bin, lib 중요!
